@@ -1,0 +1,4 @@
+Flask==2.3.3
+requests==2.31.0
+pyzbar==0.1.8
+opencv-python==4.7.0.72

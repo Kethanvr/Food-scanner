@@ -1,0 +1,49 @@
+/* Custom styles for the page */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card {
+    border-radius: 8px;
+    border: none;
+}
+
+h1, h3, h4, h5 {
+    font-family: 'Poppins', sans-serif;
+}
+
+button {
+    font-family: 'Poppins', sans-serif;
+}
+
+canvas {
+    margin-top: 30px;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+.text-primary {
+    color: #007bff !important;
+}
+
+.text-success {
+    color: #28a745 !important;
+}
+
+.text-danger {
+    color: #dc3545 !important;
+}
+
+.badge {
+    padding: 0.5em 1em;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+}
